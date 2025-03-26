@@ -1,0 +1,9 @@
+openai==0.27.8
+spacy==3.5.3
+ja_core_news_sm
+boto3
+fastapi
+uvicorn
+loguru
+requests
+pydantic
